@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -62,8 +61,7 @@
     <div class="container">
         <button class="registration-button" ><a style="text-decoration: none !important; color: #fff;" href="https://izozzanihal.github.io/weight-covert/"><h2>Registration</h2></a></button>
         <button class="group-registration-button" ><a style="text-decoration: none !important; color: #fff" href=""><h2>Group Registration</h2></a></button>
-    </div>
-</div>
+    
     
 </body>
 </html>
